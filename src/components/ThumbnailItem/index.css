@@ -1,0 +1,33 @@
+/* Write your code here. */
+.thumbnail {
+  height: 40px;
+  width: 40px;
+  border-radius: 8px;
+  border-width: 0px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.item-container {
+  margin-right: 18px;
+  opacity: 0.5;
+  margin-bottom: 12px;
+  margin-left: 0px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.active-container {
+  opacity: initial;
+  margin-right: 18px;
+  margin-bottom: 12px;
+  margin-left: 0px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.btn {
+  outline: none;
+  border-width: 0px;
+  background-color: transparent;
+}
